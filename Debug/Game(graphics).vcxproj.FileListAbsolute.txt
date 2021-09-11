@@ -1,0 +1,2 @@
+D:\Desktop\Game(graphics)\Debug\Game(graphics).exe
+D:\Desktop\Game(graphics)\Debug\Game(graphics).pdb
